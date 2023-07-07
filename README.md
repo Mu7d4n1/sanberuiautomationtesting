@@ -1,6 +1,9 @@
 # Sanbercode-UI-Automation-Testing
 Sanbercode - Tugas Pekanan 5 UIAutomation Testing using Cypress
 
+Tugas No 1
+https://docs.google.com/spreadsheets/d/1J6m5YwQB6SBWBLXuTFKeN1Yy2pXWEo6c/edit?usp=drive_link&ouid=106683018483061200493&rtpof=true&sd=true
+
 How to use this code?
 - clone this repo
 - run command "npm install"
